@@ -5,7 +5,7 @@ Materials for a hands-on workshop on Ship a Next.js App with Claude Code
 ## What’s here
 
 - **[prompts.md](./prompts.md)** — Exercise prompts in order: landing pages, architecture rules, task views with mock data, database migration with Prisma, bug fixes, Shadcn components, Plan Mode for new tasks, and optional Claude Code /design workflows.
-- **[ship-a-next.js-app-with-claude-code.pdf](./ship-a-next.js-app-with-claude-code.pdf)** — Slides / reference for the “Ship a Next.js App with Claude Code” session.
+- **[ship-a-next.js-app-with-claude-code.pdf](./ship-a-nextjs-app-with-claude-code.pdf)** — Slides / reference for the “Ship a Next.js App with Claude Code” session.
 - **`images/`** — Reference screenshots (e.g. Todoist-style landing, Codist landing, Today view).
 
 The companion app you build in the workshop is a **To-Do product named Codist** (today/inbox routes, due dates, checkboxes, seed data, and Prisma-backed persistence).
